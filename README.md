@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Welcome to Ling Luo's profile!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&lines=Full-stack+Developer;Always+learning+new+things;Open+Source+Advocate)](https://git.io/typing-svg)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lingluo-hub&theme=dark)](https://git.io/streak-stats)
+
+![Ling Luo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lingluo-hub&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lingluo-hub&layout=compact)
+
 <!--
 **lingluo-hub/lingluo-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
