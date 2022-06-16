@@ -63,6 +63,7 @@
     <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
+    <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
@@ -108,11 +109,20 @@
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=white"></a>
     <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733.svg?logo=vim&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Windows10" src="https://img.shields.io/badge/Windows10-0078D6.svg?logo=windows&logoColor=white"></a>
     <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white"></a>
+    <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white"></a>
 </p>
+
+<a href="https://jb.gg/OpenSourceSupport">
+<p align="center">
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="150">
+</p>
+</a>
+<h3 align="center"><a href="https://jb.gg/OpenSourceSupport"> 😘 JetBrains</a></h3>
 
 ## 📊 Github stats
 
