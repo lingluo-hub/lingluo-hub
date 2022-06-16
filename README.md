@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&lines=Full-stack+Developer;Always+learning+new+things;Open+Source+Advocate"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&font=JetBrains+Mono&lines=Full-stack+Developer;Always+learning+new+things;Open+Source+Advocate"></a>
 </p>
 
 ## 🔥 Streak stats
