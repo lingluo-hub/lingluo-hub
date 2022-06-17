@@ -34,7 +34,6 @@
     <a href="https://github.com/search?q=user%3Alingluo-hub+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Alingluo-hub+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Alingluo-hub+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3Alingluo-hub+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Alingluo-hub+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Alingluo-hub+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Alingluo-hub+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
@@ -46,6 +45,7 @@
     <a href="https://github.com/search?q=user%3Alingluo-hub+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Alingluo-hub+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Alingluo-hub+language%3Aswift"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/Swift-F05138.svg?logo=swift&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Alingluo-hub+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -101,7 +101,6 @@
     <a href="#"><img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=eclipseide&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="GoLand" src="https://img.shields.io/badge/GoLand-000000.svg?logo=goland&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Intellij IDEA" src="https://img.shields.io/badge/Intellij%20IDEA-000000?logo=intellijidea&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="macOS" src="https://img.shields.io/badge/macOS-000000.svg?logo=apple&logoColor=white"></a>
@@ -116,8 +115,8 @@
     <a href="#"><img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=white"></a>
     <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733.svg?logo=vim&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Windows10" src="https://img.shields.io/badge/Windows10-0078D6.svg?logo=windows&logoColor=white"></a>
     <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white"></a>
+    <a href="#"><img alt="Windows10" src="https://img.shields.io/badge/Windows10-0078D6.svg?logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white"></a>
 </p>
 
