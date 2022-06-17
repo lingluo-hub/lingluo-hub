@@ -51,6 +51,7 @@
 ### 🧰 Frameworks and libraries
 
 <p>
+    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white"></a>
     <a href="#"><img alt="Ant Design" src="https://img.shields.io/badge/Ant%20Design-0170FE.svg?logo=antdesign&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
