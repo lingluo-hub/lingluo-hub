@@ -45,12 +45,13 @@
     <a href="https://github.com/search?q=user%3Alingluo-hub+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Alingluo-hub+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Alingluo-hub+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Alingluo-hub+language%3Aswift"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/Swift-025E8C.svg?logo=swift&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Alingluo-hub+language%3Aswift"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/Swift-F05138.svg?logo=swift&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
 
 <p>
+    <a href="#"><img alt="Ant Design" src="https://img.shields.io/badge/Ant%20Design-0170FE.svg?logo=antdesign&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
