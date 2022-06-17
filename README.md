@@ -130,8 +130,8 @@
 ## 📊 Github stats
 
 <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ling Luo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lingluo-hub&show_icons=true&theme=tokyonight" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ling Luo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingluo-hub&layout=compact&theme=tokyonight" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ling Luo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lingluo-hub&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ling Luo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingluo-hub&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" height="192px"/></a>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
