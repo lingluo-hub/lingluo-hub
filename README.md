@@ -135,11 +135,6 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LingLuo's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=lingluo-hub&theme=github&hide_border=true" /></a>
-</details>
-
 <!--
 **lingluo-hub/lingluo-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
